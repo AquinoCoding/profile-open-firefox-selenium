@@ -1,0 +1,38 @@
+1635990773269	geckodriver	INFO	Listening on 127.0.0.1:38327
+1635990773275	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44091" "-no-remote" "-profile" "/tmp/rust_mozprofilewz8BKL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1635990775266	Marionette	INFO	Listening on port 34241
+1635990775302	Marionette	WARN	TLS certificate errors will be ignored for this session
+1635990775313	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1635990776168	Marionette	ERROR	[33] No reply from Marionette:Register
+1635990778636	Marionette	INFO	Stopped listening on port 34241
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635991922930	geckodriver	INFO	Listening on 127.0.0.1:53973
+1635991922939	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42703" "-no-remote" "-profile" "/tmp/rust_mozprofileEPUCV4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1635991924916	Marionette	INFO	Listening on port 36545
+1635991924972	Marionette	WARN	TLS certificate errors will be ignored for this session
+1635991924989	Marionette	ERROR	[18] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1635991925865	Marionette	ERROR	[33] No reply from Marionette:Register
+1635991933968	Marionette	INFO	Stopped listening on port 36545
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635992269240	geckodriver	INFO	Listening on 127.0.0.1:36845
+1635992269247	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/aquino/.mozilla/firefox/nxq0n4mh.default-release" "--remote-debugging-port" "58439" "-no-remote"
+1635992285936	geckodriver	INFO	Listening on 127.0.0.1:58041
+1635992285985	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-profile" "/home/aquino/.mozilla/firefox/nxq0n4mh.default-release" "--remote-debugging-port" "42431" "-no-remote"
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: has already ran once and saw panel, exit.
+1635992287262	Marionette	INFO	Listening on port 43071
+1635992287317	Marionette	WARN	TLS certificate errors will be ignored for this session
+1635992287334	Marionette	ERROR	[15] No reply from Marionette:Register
+1635992288088	Marionette	ERROR	[36] No reply from Marionette:Register
+1635992290710	Marionette	INFO	Stopped listening on port 43071
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
